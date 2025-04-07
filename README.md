@@ -22,7 +22,7 @@ The Advanced Port Scanner is a Python-based network scanning tool designed to ch
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/port_scanner.git
+   git clone https://github.com/FrancoSbaffi/port_scanner.git
    ```
 
 2. **Navigate to the project directory:**
