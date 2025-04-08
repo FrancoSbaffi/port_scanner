@@ -1,7 +1,5 @@
 # Advanced Port Scanner
 
----
-
 ## Overview
 
 The Advanced Port Scanner is a Python-based network scanning tool designed to check the status of commonly used ports on a given IP address. It uses multi-threading to speed up the scanning process and only checks important ports, making it ideal for quick security assessments and network diagnostics.
